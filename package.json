@@ -16,7 +16,7 @@
         "chai": "*",
         "eslint": "3.7.x",
         "istanbul": "0.4.5",
-        "mocha": "5.2.0",
+        "mocha": "10.2.0",
         "sinon": "1.15.x",
         "ts-node": "*",
         "typescript": "2.9.2"
